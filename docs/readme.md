@@ -53,7 +53,7 @@ console.log(allalgorithms.sorting.bubbleSort(arr));
 
 # Tree
 
-- ### Sorting
+-  **Sorting**
   - [Bubble Sort](https://js.allalgorithms.com/sorting/bubble-sort)
   - [Merge Sort](https://js.allalgorithms.com/sorting/merge-sort)
 

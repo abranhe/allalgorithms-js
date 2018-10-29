@@ -1,6 +1,6 @@
 {
   "name": "allalgorithms",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A collection of All ▲lgorithms implemented in JavaScript",
   "main": "index.js",
   "scripts": {
@@ -10,6 +10,10 @@
     "type": "git",
     "url": "git+https://github.com/abranhe/allalgorithms-js.git"
   },
+  "files": [
+	  "index.js",
+	  "src/"
+  ],
   "keywords": [
     "computer-science",
     "allalgorithms",

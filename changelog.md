@@ -5,6 +5,9 @@ Changelog
 </h1>
 <div>
 
+# `0.0.2`
+
+- Fix installing issue
 
 # `0.0.1`
 
