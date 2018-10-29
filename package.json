@@ -1,0 +1,40 @@
+{
+  "name": "allalgorithms",
+  "version": "0.0.1",
+  "description": "A collection of All ▲lgorithms implemented in JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "xo"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abranhe/allalgorithms-js.git"
+  },
+  "keywords": [
+    "computer-science",
+    "allalgorithms",
+    "algorithms",
+    "all-algorithms",
+    "data-structures",
+    "algorithm",
+    "searching-algorithms",
+    "sorting-algorithms",
+    "graph-algorithms",
+    "tree",
+    "math"
+  ],
+  "author": {
+    "name": "Carlos Abraham",
+    "web": "abranhe.com",
+    "email": "abraham@abranhe.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/abranhe/allalgorithms-js/issues"
+  },
+  "homepage": "https://js.allalgorithms.com",
+  "devDependencies": {
+    "ava": "^0.25.0",
+    "xo": "^0.23.0"
+  }
+}
