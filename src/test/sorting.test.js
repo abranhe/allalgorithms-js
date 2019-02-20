@@ -12,3 +12,7 @@ test('Testing Bubble Sort', t => {
 test('Testing Merge Sort', t => {
 	t.deepEqual(expected, sorting.mergeSort(array));
 });
+
+test('Testing Bogo Sort', t => {
+	t.deepEqual(expected, sorting.bogoSort(array));
+});
