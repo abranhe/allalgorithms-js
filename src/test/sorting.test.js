@@ -16,3 +16,4 @@ test('Testing Merge Sort', t => {
 test('Testing Bogo Sort', t => {
 	t.deepEqual(expected, sorting.bogoSort(array));
 });
+
