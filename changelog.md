@@ -1,20 +1,17 @@
-<div align="left">
-<h1><img src="https://cdn.abranhe.com/projects/algorithms/algorithms.svg" alt="Algorithms" height="30px">
-<img src="https://cdn.abranhe.com/projects/algorithms/logos/javascript.svg" width="30px">
-Changelog
-</h1>
-<div>
+n.n.n / 2019-02-21
+==================
 
-# `0.0.2`
+  * Merge pull request #2 from christianbender/add_bogo_sort
 
-- Fix installing issue
+  * changed according to xo-tool
+  * added bogo sort
+  * package.json
+  * Merge pull request #1 from abranhe/donotdisturb
+  * no more notifications
+  * remove comma (,)
 
-# `0.0.1`
-
-Date: October 29, 2018
-
-> Algorithms:
-
-- **Sorting**
-  - Bubble Sort
-  - Merge Sort
+0.0.2 / 2018-10-29
+==================
+ 
+ * fix install issue && jump to 0.0.2
+ * init

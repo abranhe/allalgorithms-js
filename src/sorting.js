@@ -1,5 +1,5 @@
 module.exports = {
+	bogoSort: require('./sorting/bogo-sort'),
 	bubbleSort: require('./sorting/bubble-sort'),
-	mergeSort: require('./sorting/merge-sort'),
-	bogoSort: require('./sorting/bogo-sort')
+	mergeSort: require('./sorting/merge-sort')
 };
