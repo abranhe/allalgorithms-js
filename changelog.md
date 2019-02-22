@@ -1,5 +1,6 @@
-n.n.n / 2019-02-21
-==================
+0.0.3 / 2019-02-21
+
+=================
 
   * Merge pull request #2 from christianbender/add_bogo_sort
 

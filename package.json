@@ -4,7 +4,7 @@
   "description": "A collection of All ▲lgorithms implemented in JavaScript",
   "main": "index.js",
   "scripts": {
-    "test": "xo"
+    "test": "xo && ava"
   },
   "repository": {
     "type": "git",
