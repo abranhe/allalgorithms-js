@@ -11,8 +11,8 @@
     "url": "git+https://github.com/abranhe/allalgorithms-js.git"
   },
   "files": [
-	  "index.js",
-	  "src/"
+    "index.js",
+    "src/"
   ],
   "keywords": [
     "computer-science",
