@@ -7,7 +7,10 @@
  * @returns {string}
  */
 function reverse(str) {
-	return str.split('').reverse().join('');
+  return str
+    .split('')
+    .reverse()
+    .join('');
 }
 
 module.exports = reverse;

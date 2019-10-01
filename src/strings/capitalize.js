@@ -7,13 +7,13 @@
  * @returns {string}
  */
 function capitalize(str) {
-	const words = [];
+  const words = [];
 
-	for (const word of str.split(' ')) {
-		words.push(word[0].toUpperCase() + word.slice(1));
-	}
+  for (const word of str.split(' ')) {
+    words.push(word[0].toUpperCase() + word.slice(1));
+  }
 
-	return words.join(' ');
+  return words.join(' ');
 }
 
 module.exports = capitalize;
