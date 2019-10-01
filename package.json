@@ -2,31 +2,10 @@
   "name": "allalgorithms",
   "version": "0.0.3",
   "description": "A collection of All ▲lgorithms implemented in JavaScript",
-  "main": "index.js",
+  "repository": "abranhe/permutated",
   "scripts": {
     "test": "xo && ava"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/abranhe/allalgorithms-js.git"
-  },
-  "files": [
-    "index.js",
-    "src/"
-  ],
-  "keywords": [
-    "computer-science",
-    "allalgorithms",
-    "algorithms",
-    "all-algorithms",
-    "data-structures",
-    "algorithm",
-    "searching-algorithms",
-    "sorting-algorithms",
-    "graph-algorithms",
-    "tree",
-    "math"
-  ],
   "author": {
     "name": "Carlos Abraham",
     "web": "abranhe.com",
@@ -37,8 +16,35 @@
     "url": "https://github.com/abranhe/allalgorithms-js/issues"
   },
   "homepage": "https://js.allalgorithms.com",
+  "files": [ "src/" ],
+  "keywords": [
+    "computer-science",
+    "allalgorithms",
+    "algorithms",
+    "data-structures",
+    "algorithm",
+    "searching",
+    "sorting",
+    "graph",
+    "tree",
+    "math"
+  ],
   "devDependencies": {
-    "ava": "^0.25.0",
-    "xo": "^0.23.0"
+    "ava": "*",
+    "xo": "*"
+  },
+  "xo": {
+    "prettier": true,
+    "space": true,
+    "rules": {
+      "no-warning-comments": 0,
+      "import/no-unassigned-import": 0,
+      "camelcase": 1,
+      "new-cap": 1
+    }
+  },
+  "prettier": {
+    "trailingComma": "all",
+    "bracketSpacing": true
   }
 }
