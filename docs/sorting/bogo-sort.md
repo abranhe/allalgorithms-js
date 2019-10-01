@@ -13,7 +13,7 @@ npm install allalgorithms
 ```js
 const allalgorithms = require('allalgorithms');
 
-arr = [77, 2, 10, -2, 1, 7]
+const arr = [77, 2, 10, -2, 1, 7];
 
 console.log(allalgorithms.sorting.bogoSort(arr))
 // -> [-2, 1, 2, 7, 10, 77]

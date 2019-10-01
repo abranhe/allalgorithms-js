@@ -45,7 +45,7 @@ npm install allalgorithms
 ```js
 const allalgorithms = require('allalgorithms');
 
-arr = [77, 2, 10, -2, 1, 7]
+const arr = [77, 2, 10, -2, 1, 7];
 
 console.log(allalgorithms.sorting.bubbleSort(arr));
 // -> [-2, 1, 2, 7, 10, 77]
@@ -57,6 +57,13 @@ console.log(allalgorithms.sorting.bubbleSort(arr));
   - [Bubble Sort](https://js.allalgorithms.com/sorting/bubble-sort)
   - [Merge Sort](https://js.allalgorithms.com/sorting/merge-sort)
 
+-  **Strings**
+  - [Reverse](https://js.allalgorithms.com/strings/reverse)
+  - [Capitalize](https://js.allalgorithms.com/strings/capitalize)
+  - [Palindrome](https://js.allalgorithms.com/strings/palindrome)
+  - [Vowels](https://js.allalgorithms.com/strings/vowels)
+  - [Anagrams](https://js.allalgorithms.com/strings/anagrams)
+ 
 # Related
 
 - [allalgorithms-python](https://github.com/abranhe/allalgorithms-python): All ▲lgorithms Python library
