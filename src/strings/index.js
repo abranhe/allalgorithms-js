@@ -3,6 +3,7 @@ const capitalize = require('./capitalize');
 const palindrome = require('./palindrome');
 const reverse = require('./reverse');
 const vowels = require('./vowels');
+const slug = require('./slug');
 
 module.exports = {
   anagrams,
@@ -10,4 +11,5 @@ module.exports = {
   palindrome,
   reverse,
   vowels,
+  slug
 };

@@ -7,6 +7,7 @@ const {
   palindrome,
   reverse,
   vowels,
+  slug
 } = require('./strings');
 
 module.exports = {
@@ -20,4 +21,5 @@ module.exports = {
   palindrome,
   reverse,
   vowels,
+  slug
 };
