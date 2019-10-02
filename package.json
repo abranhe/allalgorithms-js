@@ -16,7 +16,9 @@
     "url": "https://github.com/abranhe/allalgorithms-js/issues"
   },
   "homepage": "https://js.allalgorithms.com",
-  "files": [ "src/" ],
+  "files": [
+    "src/"
+  ],
   "keywords": [
     "computer-science",
     "allalgorithms",
