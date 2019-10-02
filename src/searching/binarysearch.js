@@ -1,4 +1,4 @@
-let linearSearch = function (arr, x) {
+let binarySearch = function (arr, x) {
 
 	let start = 0,
 		end = arr.length - 1;
